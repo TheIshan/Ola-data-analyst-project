@@ -25,6 +25,10 @@ The goal is to help stakeholders understand usage patterns, identify operational
 
 - `Ola data analysis.pbix` – Main Power BI report file
 ![Screenshot (84)](https://github.com/user-attachments/assets/e741ee77-e33b-4c1b-9562-a7bef9fd9a87)
+![Screenshot (85)](https://github.com/user-attachments/assets/4bf43752-f376-428a-b848-7493fc398da6)
+![Screenshot (87)](https://github.com/user-attachments/assets/40e2ed5c-5968-4203-b311-046e2941d0c4)
+![Screenshot (88)](https://github.com/user-attachments/assets/2db06dee-e81d-45f7-bb88-07df859a50bf)
+![Screenshot (89)](https://github.com/user-attachments/assets/3d450f08-196d-4d32-bf18-f1b4609c9bdb)
 
 - `README.md` – Project description
 
