@@ -44,8 +44,8 @@ The goal is to help stakeholders understand usage patterns, identify operational
 
 ## 🧑‍💻 Author
 
-- **Your Name** – [Ishan Shrivastava]
-- Role: Data Analyst / Power BI Developer
+- Ishan Shrivastava
+- Data Analyst 
 
 ## 📌 License
 
