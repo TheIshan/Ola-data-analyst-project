@@ -24,7 +24,8 @@ The goal is to help stakeholders understand usage patterns, identify operational
 ## 📁 File Structure
 
 - `Ola data analysis.pbix` – Main Power BI report file
-- (Optional) `Screenshots/` – Folder containing visual previews of the dashboard
+![Screenshot (84)](https://github.com/user-attachments/assets/e741ee77-e33b-4c1b-9562-a7bef9fd9a87)
+
 - `README.md` – Project description
 
 ## 🧠 Insights Highlighted
